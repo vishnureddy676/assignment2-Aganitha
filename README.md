@@ -13,7 +13,7 @@ Open Your Terminal:
   repository into your home directory, you can use:
   3.cd ~
   4.Clone the Repository:Use the git clone command followed by the URL you copied earlier. Replace <repository_url> 
-  with the actual URL you obtained from GitHub. For example:git clone 
+  with the actual URL you obtained from GitHub. For example:git clone https://github.com/vishnureddy676/assignment2-Aganitha.git
 3.HOW TO RUN IN DEV ENVIRONMENT:
   1.Navigate to the Cloned Repository:Use the cd command in your terminal to navigate into the directory where you 
     cloned the repository. For example:cd repositoryname
@@ -24,7 +24,7 @@ Open Your Terminal:
   Open your HTML file using a web browser of your choice. You can do this by double-clicking the HTML file or right- 
   clicking and selecting "Open with" and choosing a browser.
   4.View Your Webpage:
-  The HTML file should render in your browser, and any associated CSS styles should be applied automatically. 
+  The HTML file should render in your browser, and any associated CSS styles and javascript should be applied automatically. 
   
     
 
